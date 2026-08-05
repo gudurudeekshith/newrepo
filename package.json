@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "dependencies": {
+    "event": "^1.0.0",
+    "fs": "^0.0.1-security"
+  }
 }
